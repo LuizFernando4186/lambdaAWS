@@ -2,7 +2,7 @@
 
 ## Descrição
 
-As Funções Lambda da AWS revolucionam a execução de código, proporcionando uma abordagem serverless. Focando no seu código, você se liberta da preocupação com a infraestrutura. Explore os destaques desta tecnologia inovadora:
+As Funções Lambda da AWS revolucionam a execução de código, proporcionando uma abordagem serverless. Focando no seu código, você se liberta da preocupação com a infraestrutura:
 
 ## Características Principais
 
